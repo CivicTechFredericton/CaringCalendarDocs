@@ -1,5 +1,6 @@
 $(function() {
     $('#calendar').fullCalendar({
+        defaultView: 'agendaWeek',
         header: {
             left: 'month,agendaWeek,agendaDay',
             center: 'title',

@@ -106,9 +106,18 @@ header {
     margin: 0 1em 1em;
 }
 
+#register {
+    margin: 0 auto;
+    max-width: 600px;
+}
 
+nav {
+    background-color: #00659d;
+}
 
-
+nav a:hover {
+    color: #fff;
+}
 
 
 
