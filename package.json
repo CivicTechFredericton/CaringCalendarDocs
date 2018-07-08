@@ -1,0 +1,19 @@
+{
+  "name": "caring-calendar",
+  "version": "1.0.0",
+  "description": "A care calendar to : Help charity associations to share information so that homeless services maybe spread all weeks long and not only have all services the same day.",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CivicTechFredericton/CaringCalendar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CivicTechFredericton/CaringCalendar/issues"
+  },
+  "homepage": "https://github.com/CivicTechFredericton/CaringCalendar#readme"
+}
