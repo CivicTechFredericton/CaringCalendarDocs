@@ -7,7 +7,7 @@ Help charity associations to share information and coordinate services for the m
 TODO: Add product description
 
 ## Product Roadmap Documentation
-TODO: Add link to roadmap doc
+https://github.com/CivicTechFredericton/CaringCalendar/wiki
 
 ## Product Team Resources
 - #caringcalendar channel on Slack: https://civictechfredericton.slack.com/messages/C83RVTBQF/
