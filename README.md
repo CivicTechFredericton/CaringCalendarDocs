@@ -1,4 +1,4 @@
-# Caring Calendar
+# Caring Calendar Documentation
 
 ## Vision
 Help charity associations to share information and coordinate services for the marginally housed and food insecure to spread out services and avoid scheduling conflicts.
